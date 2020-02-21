@@ -1,6 +1,6 @@
 baseURL = "http://onzininc.com/"
 languageCode = "en-us"
-title = "Onzin Inc"
+title = "Onzin Incorporated"
 theme = "minimal"
 disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = ""
